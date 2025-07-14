@@ -51,7 +51,7 @@ python student_record.py
 ## 🙌 About Me
 
 I'm **Sumit Sanap**, a first-year BTech CSE student, passionate about learning how to code and building real-world projects.  
-This is my first GitHub project as I begin my developer journey — and there’s more to come! 🚀
+This is my first GitHub project as I begin my developer journey — and there’s more to come!. 🚀
 
 
 
